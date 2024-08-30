@@ -26,7 +26,7 @@ View my notebook with detailed steps here:
 
 
 ### Results
-![Visualization of data skills for](3.Project\Images\skill_demand.png)
+![3.Project/Images/skill_demand.png)
 
 
 ### Insights
