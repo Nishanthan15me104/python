@@ -26,7 +26,7 @@ View my notebook with detailed steps here:
 
 
 ### Results
-![skill_demand.png]3.Project/Images/skill_demand.png
+![skill_demand.png](3.Project/Images/skill_demand.png)
 
 
 
