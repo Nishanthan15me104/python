@@ -35,7 +35,7 @@ View my notebook with detailed steps here:
 
 - SQL is critical for both Data Analysts and Data Engineers, reflecting its foundational role in data-related tasks.
 
-- Data Engineers have a diverse set of required skills, including cloud platforms like AWS and Azure.
+- Data Engineers have a diverse set of required skills, including cloud platforms like AWS and Azure
 
 - Visualization tools like Tableau and Power BI are more relevant for Data Analysts, while Data Scientists and Data Engineers focus more on programming languages and cloud services.
 
