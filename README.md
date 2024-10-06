@@ -225,16 +225,18 @@ Throughout this project, I learned the basics of Python and practiced using it f
 
 This project provided several general insights into the data job market for analysts:
 
-- **Skill Demand and Salary Correlation**: There is a clear correlation between the demand for specific skills and the salaries these skills command.----------- Advanced and specialized skills like Python and Oracle often lead to higher salaries.------
+- **Skill Demand and Salary Correlation**: There is a clear correlation between the demand for specific skills and the salaries these skills command.----------- Advanced and specialized skills like PyTorch, TensorFlow and Keras often lead to higher salaries.------
 - **Market Trends**: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career growth in data analytics.
 - **Economic Value of Skills**: Understanding which skills are both in-demand and well-compensated can guide data analysts in prioritizing learning to maximize their economic returns.
 
 
 # Challenges I Faced
 
-
+- **Time Commitment**: Despite the video's length, completing it took approximately a month due to the focus on practicing concepts and gaining a thorough understanding.
+- **Problem-Solving Approaches**: The experience highlighted the importance of leveraging resources like ChatGPT and Gemini (LLMs) to find solutions when encountering coding challenges. Additionally, consulting the documentation of relevant libraries proved invaluable for troubleshooting and learning new coding techniques.
+- **Practical Experience**: Completing the video provided hands-on practice and experience in Python coding, which is essential for building proficiency and confidence in handling future coding challenges.
 
 
 # Conclusion
 
-This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+This exploration into the data scientist job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field
