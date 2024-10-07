@@ -225,7 +225,7 @@ Throughout this project, I learned the basics of Python and practiced using it f
 
 This project provided several general insights into the data job market for analysts:
 
-- **Skill Demand and Salary Correlation**: There is a clear correlation between the demand for specific skills and the salaries these skills command.----------- Advanced and specialized skills like PyTorch, TensorFlow and Keras often lead to higher salaries.------
+- **Skill Demand and Salary Correlation**: There is a clear correlation between the demand for specific skills and the salaries these skills command.Advanced and specialized skills like PyTorch, TensorFlow and Keras often lead to higher salaries.
 - **Market Trends**: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career growth in data analytics.
 - **Economic Value of Skills**: Understanding which skills are both in-demand and well-compensated can guide data analysts in prioritizing learning to maximize their economic returns.
 
