@@ -147,7 +147,7 @@ View my notebook with detailed steps here:
 #### Results
 
 
-![salary distribution](3.Project\Images\salary_Distribution.png)
+![salary distribution](3.Project_job_analysis\Images\salary_Distribution.png)
 
 - Data Engineers have the highest salary range: Among the job titles, Data Engineers show a large spread in salary, ranging from about 70k to nearly 200k, with a few outliers above 250k.
 
