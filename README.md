@@ -89,7 +89,7 @@ View my notebook with detailed steps here:
 
 
 ### Results
-![skill_demand.png](3.Project/Images/skill_demand.png)
+![skill_demand.png](3.Project_job_analysis\Images\demand_skills.png)
 
 
 
@@ -120,7 +120,7 @@ View my notebook with detailed steps here:
 
     plt.show()
 
-![Trending stop skills for Data Scientist in India](3.Project\Images\skill_trend.png)
+![Trending stop skills for Data Scientist in India](3.Project_job_analysis\Images\skill_trend.png)
 
 ### Insights
 
